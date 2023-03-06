@@ -1,0 +1,796 @@
+{
+    "products":[
+        {
+        "id":1,
+        "image_url":[
+            "https://www.forevernew.co.in/media/catalog/product/cache/ba238378db42b44974dffcb9b705dc9e/o/l/oldimlall_onbody_27812902_f1_lv8dsqtztmze48sf.jpg",
+            "https://www.forevernew.co.in/media/catalog/product/cache/ba238378db42b44974dffcb9b705dc9e/o/l/oldimlall_onbody_27812902_f1_lv8dsqtztmze48sf.jpg",
+            "https://www.forevernew.co.in/media/catalog/product/cache/ba238378db42b44974dffcb9b705dc9e/o/l/oldimlall_onbody_27812902_f1_lv8dsqtztmze48sf.jpg",
+            "https://www.forevernew.co.in/media/catalog/product/cache/ba238378db42b44974dffcb9b705dc9e/o/l/oldimlall_onbody_27812902_f1_lv8dsqtztmze48sf.jpg"
+        ],
+        "title":"Suzana Collar Belted Knit Dress",
+        "discount":"9% off",
+        "mrp":"1,000",
+        "our_price": "910",
+        "size":"M",
+        "category":"women"
+        },
+         {
+        "id":2,
+        "image_url":[
+            "https://staticimg.titan.co.in/Titan/Catalog/1841QC04_1.jpg?impolicy=pqmed&imwidth=640",
+            "https://staticimg.titan.co.in/Titan/Catalog/1841QC04_1.jpg?impolicy=pqmed&imwidth=640",
+            "https://staticimg.titan.co.in/Titan/Catalog/1841QC04_1.jpg?impolicy=pqmed&imwidth=640",
+            "https://staticimg.titan.co.in/Titan/Catalog/1841QC04_1.jpg?impolicy=pqmed&imwidth=640"
+        ],
+        "title":"Titan Edge Squircle Blue Dial Ceramic Strap Watch for Men",
+        "discount":"10% off",
+        "mrp":"4,999",
+        "our_price": "4,599",
+        "size":"L",
+        "category":"watch"
+        },
+         {
+        "id":3,
+        "image_url":[
+            "https://staticimg.titan.co.in/Titan/Catalog/95206WM01_1.jpg?impolicy=pqmed&imwidth=640",
+            "https://staticimg.titan.co.in/Titan/Catalog/95206WM01_1.jpg?impolicy=pqmed&imwidth=640",
+            "https://staticimg.titan.co.in/Titan/Catalog/95206WM01_1.jpg?impolicy=pqmed&imwidth=640",
+            "https://staticimg.titan.co.in/Titan/Catalog/95206WM01_1.jpg?impolicy=pqmed&imwidth=640"
+        ],
+        "title":"Titan Purple Glitz Rose Gold Dial Stainless Steel Strap Watch for Women",
+        "discount":"1% off",
+        "mrp":"999",
+        "our_price":"990",
+        "size":"S",
+        "category":"watch"
+        },
+         {
+        "id":4,
+        "image_url":[
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/x/r/n/xxl-tsrt-222-xxl-reya-original-imagjdthwujwhcwe.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/u/y/x/l-tsr-215-reya-original-imagkc375rxsgay7.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/m/q/x/l-tsr-215-reya-original-imagkc37pytxgk8p.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/3/c/q/l-tsrt-215-l-reya-original-imagjdthutwxyyeb.jpeg?q=70"
+        ],
+        "title":"Men Printed Round Neck Black T-Shirt",
+        "discount":"81% off",
+        "mrp":"1,499",
+        "our_price":"275",
+        "size":"S",
+        "category":"men"
+        },
+         {
+        "id":5,
+        "image_url":[
+        "https://images.bewakoof.com/t1080/men-s-black-snoopy-stripboard-graphic-printed-oversized-t-shirt-569142-1677587052-1.jpg",
+        "https://images.bewakoof.com/original/men-s-black-snoopy-stripboard-graphic-printed-oversized-t-shirt-569142-1677587057-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-snoopy-stripboard-graphic-printed-oversized-t-shirt-569142-1677587068-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-snoopy-stripboard-graphic-printed-oversized-t-shirt-569142-1677587078-7.jpg"
+        ],
+        "title":"Men's Black Snoopy Stripboard Graphic Printed Oversized T-shirt",
+        "discount":"60% off",
+        "mrp":"1,499",
+        "our_price":"599",
+        "size":"M",
+        "category":"men"
+        },
+         {
+         "id":6,
+        "image_url":[
+         "https://images.bewakoof.com/t1080/men-s-white-snoopy-jap-graphic-printed-oversized-t-shirt-569150-1677504064-1.jpg",
+         "https://images.bewakoof.com/t1080/men-s-white-snoopy-jap-graphic-printed-oversized-t-shirt-569150-1677504069-2.jpg",
+         "https://images.bewakoof.com/t1080/men-s-white-snoopy-jap-graphic-printed-oversized-t-shirt-569150-1677504085-5.jpg",
+         "https://images.bewakoof.com/t1080/men-s-white-snoopy-jap-graphic-printed-oversized-t-shirt-569150-1677504069-2.jpg"
+        ],
+        "title":"Men's White Snoopy Jap Graphic Printed Oversized T-shirt",
+        "discount":"56% off",
+        "mrp":"1,499",
+        "our_price":"649",
+        "size":"XL",
+        "category":"men"
+        },
+         {
+        "id":7,
+        "image_url":[
+        "https://rukminim1.flixcart.com/image/832/832/l16rde80/watch/3/w/v/1-1283greentw-timewear-men-original-imagctf5spvgmhhd.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/k0r15e80/watch/8/p/s/1283greentw-timewear-original-imafkh2ytqxxhghn.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/s/f/f/-original-imaghny5ycpgmsxg.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/k1qr5ow0/watch/z/d/9/f-skmei1283-skmei-original-imafkgwtyt6bbn9h.jpeg?q=70"
+        ],
+        "title":"TIMEWEAR Black Dial Green Silicone Strap Sports Analog-Digital Watch  - For Men",
+        "discount":"84% off",
+        "mrp":"3,499",
+        "our_price":"543",
+        "size":"",
+        "category":"watch"
+        },
+         {
+        "id":8,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/832/832/kerfl3k0pkrrdj/watch/2/5/r/1170-bl-br-fogg-original-imafvhvvagrufhkw.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kerfl3k0pkrrdj/watch/x/u/m/1170-bl-br-fogg-original-imafvhvvn9fvqbz2.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kk8mcnk0/watch/1/q/x/1203-gr-fogg-original-imafzmpwxswshe5j.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/q/8/p/-original-imaghny5yamxjbtv.jpeg?q=70"
+        ],
+        "title":"Unique New Day & Date Analog Watch  - For Men",
+        "discount":"81% off",
+        "mrp":"1,699",
+        "our_price":"319",
+        "size":"",
+        "category":"watch"
+        },
+         {
+        "id":9,
+        "image_url":[
+        "https://rukminim1.flixcart.com/image/416/416/xif0q/smartwatch/e/4/c/-original-imaghxg9hnk2bztm.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/smartwatch/a/g/n/-original-imaghxg8t3ksryga.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/smartwatch/v/s/e/-original-imaghxg8zhdx4fha.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/smartwatch/8/v/d/-original-imaghxg8rhscysu8.jpeg?q=70"
+        ],
+        "title":"APPLE Watch Ultra GPS + Cellular (Orange Alpine Strap,Large)",
+        "discount":"1% off",
+        "mrp":"89,900",
+        "our_price":"89,800",
+        "size":"L",
+        "category":"watch"
+        },
+         {
+        "id":10,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/p/o/g/m-dk403-dk-fab-original-imagktvejgqt9h6h.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/h/d/a/m-pw403-purshottam-wala-original-imagkc28ymwjctu6.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/q/d/q/m-dk403-dk-fab-original-imagktve5ty4xeef.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/4/1/k/m-pw403-purshottam-wala-original-imagkc28vzuf9nmf.jpeg?q=70"
+        ],
+        "title":"Women Gown Black Dress",
+        "discount":"77% off",
+        "mrp":"1,999",
+        "our_price":"459",
+        "size":"M",
+        "category":"women"
+        },
+         {
+        "id":11,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/832/832/l08gsy80/dress/p/0/w/xl-ut-4006-aask-original-imagc2rjk7n5xypg.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/l08gsy80/dress/f/y/c/s-ut-4006-aask-original-imagc2rjectgxpjw.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/l08gsy80/dress/e/x/p/s-ut-4006-aask-original-imagc2rj7hz5dg6r.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/l08gsy80/dress/w/h/d/xl-ut-4006-aask-original-imagc2rj7cc7r6db.jpeg?q=70"
+        ],
+        "title":"Women Fit and Flare Purple Dress",
+        "discount":"87% off",
+        "mrp":"2,990",
+        "our_price":"299",
+        "size":"L",
+        "category":"women"
+        },
+         {
+        "id":12,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/l1l1rww0/mobile/j/e/u/-original-imagd48zzrkcjfn2.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kwgpz0w0/mobile/b/m/u/-original-imag95y4cfssz2bn.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kwgpz0w0/mobile/1/b/p/-original-imag95y4wwvyk5qf.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kwgpz0w0/mobile/w/u/7/-original-imag95y4avsghdqk.jpeg?q=70"
+        ],
+        "title":"MOTOROLA g31 (Baby Blue, 128 GB)",
+        "discount":"35% off",
+        "mrp":"16,999",
+        "our_price":"10,999",
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":13,
+        "image_url":[
+        "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/g/m/t/-original-imagmg6gyhzhh3fb.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/q/y/u/-original-imagmg6ggzazdevx.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/p/4/u/-original-imagmg6gynphgrh8.jpeg?q=70"
+        ],
+        "title":"SAMSUNG Galaxy S23 Ultra 5G (Green, 256 GB)",
+        "discount":"16% off",
+        "mrp":"1,49,999",
+        "our_price":"1,24,999",
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":14,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/k/z/9/-original-imaghxejrdfwrybs.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/x/q/i/-original-imaghxejh67memqn.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/n/h/w/-original-imaghxejc7btkj6s.jpeg?q=70"
+        ],
+        "title":"APPLE iPhone 14 Pro Max (Deep Purple, 128 GB)",
+        "discount":"8% off",
+        "mrp":"1,39,990",
+        "our_price":"1,27,999",
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":15,
+        "image_url":[
+        "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/g/g/3/-original-imaggbrccwsnygar.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/r/9/t/-original-imaggbrb3gyagad8.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/y/b/t/-original-imaggbrbkxzra38y.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/o/a/z/-original-imaggbrc7kyhvgtm.jpeg?q=70"
+        ],
+        "title":"Google Pixel 6a (Chalk, 128 GB)",
+        "discount":"27% off",
+        "mrp":"43,999",
+        "our_price":"31,999",
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":16,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/r/8/3/11-5g-b0bqjlcqd3-oneplus-original-imagmugsquuygsbg.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/d/v/s/11-5g-b0bqjlcqd3-oneplus-original-imagmugshyywptae.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/h/f/c/11-5g-b0bqjlcqd3-oneplus-original-imagmugswtrgbszw.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/o/d/m/11-5g-b0bqjlcqd3-oneplus-original-imagmugs8zzrzqmq.jpeg?q=70"
+        ],
+        "title":"OnePlus 11 5G (?Eternal Green, 256 GB)",
+        "discount":"1% off",
+        "mrp":"61,990",
+        "our_price":"61,800",
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":17,
+        "image_url":[
+        "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/x/r/n/-original-imagmgy5jk8ytxnw.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/l/q/v/-original-imagmgy5wjzgrhsf.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/h/d/l/-original-imagmgy5z9p7wqma.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/x/9/q/-original-imagmgy5xg8vugfm.jpeg?q=70"
+        ],
+        "title":"OPPO Reno8T 5G (Sunrise Gold, 128 GB)",
+        "discount":"23% off",
+        "mrp":38999,
+        "our_price":29999,
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":18,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/z/a/b/-original-imaghkvv2u8jxajh.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/r/s/w/-original-imaghkvvwgfyyker.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/o/6/s/-original-imaghkvvmd9gg3wy.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/z/v/x/-original-imaghkvvtf7umzg5.jpeg?q=70"
+        ],
+        "title":"REDMI Note 12 Pro+ 5G (Obsidian Black, 256 GB)",
+        "discount":"11% off",
+        "mrp":33999,
+        "our_price":29999,
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":19,
+        "image_url":[
+          "https://rukminim1.flixcart.com/image/416/416/kzd147k0/mobile/m/c/f/-original-imagbe5qknarjywp.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzd147k0/mobile/x/q/n/-original-imagbe5q4ynz7ge6.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzd147k0/mobile/z/9/h/-original-imagbe5qnquhuude.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kzd147k0/mobile/9/u/g/-original-imagbe5qzbffzsb6.jpeg?q=70"
+        ],
+        "title":"vivo T1 5G (Rainbow Fantasy, 128 GB)",
+        "discount":"20% off",
+        "mrp":19990,
+        "our_price":15990,
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":20,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/a/p/r/-original-imagkgrxwg386pjk.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/y/o/i/-original-imagkgrxqgsbqajb.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/q/g/9/-original-imagkgrx4gspvyyf.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/w/e/h/-original-imagkgrxyjtdumee.jpeg?q=70"
+        ],
+        "title":"Infinix HOT 20 Play (Fantasy Purple, 64 GB)",
+        "discount":"31% off",
+        "mrp":11999,
+        "our_price":8199,
+        "size":"",
+        "category":"mobile"
+        },
+         {
+        "id":21,
+        "image_url":[
+          "https://rukminim1.flixcart.com/image/832/832/k8uiz680/watch/8/w/u/nm1767nm01-titan-original-imafqr6qtcnuvcz2.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/k8uiz680/watch/8/w/u/nm1767nm01-titan-original-imafqr6qqys9cg3s.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/k8uiz680/watch/8/w/u/nm1767nm01-titan-original-imafqr6qqgefaaft.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jwkzwy80/watch/u/c/f/1697sm02-titan-original-imafeq95cz8mshue.jpeg?q=70"
+        ],
+        "title":"Titan Analog Watch -For Men",
+        "discount":"27% off",
+        "mrp":4695,
+        "our_price":3426,
+        "size":"",
+        "category":"watch"
+        },
+         {
+        "id":22,
+        "image_url":[
+          "https://rukminim1.flixcart.com/image/416/416/l1fc0i80/fan/e/6/s/-original-imagczzsevxhn2qw.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1fc0i80/fan/h/h/k/-original-imagczzsyexnuhkm.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1fc0i80/fan/6/v/k/-original-imagczzs8bjaag3h.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/l1fc0i80/fan/7/y/q/-original-imagczzss3rxrjzh.jpeg?q=70"
+        ],
+        "title":"BAJAJ Crest Neo 1200 mm Ultra High Speed 3 Blade Ceiling Fan",
+        "discount":"49% off",
+        "mrp":2676,
+        "our_price":1349,
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":23,
+        "image_url":[
+        "https://rukminim1.flixcart.com/image/416/416/xif0q/mixer-grinder-juicer/i/0/m/-original-imaghy69gbrjwkvz.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/b/b/u/-original-imaghy694xsqhvgn.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/v/f/g/-original-imaghy69azyhbvmg.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/r/z/i/-original-imaghy69gusjqgc4.jpeg?q=70"
+        ],
+        "title":"BAJAJ GX 1 500 W Mixer Grinder (3 Jars, Blue)",
+        "discount":"44% off",
+        "mrp":4125,
+        "our_price":2299,
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":24,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/kuof5ow0/trimmer/7/z/f/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7r4r7ztgnuyk.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kubk70w0/trimmer/p/g/h/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7hyzzyfazpdj.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kubk70w0/trimmer/u/u/o/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7hyzuw8zhrbj.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kubk70w0/trimmer/u/s/f/0-5-10-mm-bt3101-15-stainless-steel-cordless-philips-original-imag7hyzer2zczzr.jpeg?q=70"
+        ],
+        "title":"PHILIPS BT3101/15 Trimmer 45 min  Runtime 10 Length Settings",
+        "discount":"26% off",
+        "mrp":1495,
+        "our_price":1099,
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":25,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/knan98w0/water-purifier/d/m/n/skyland-18-ltr-ro-uv-uf-tds-water-purifier-aquagrand-original-imag2yaghexsg7rt.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/knan98w0/water-purifier/c/a/n/skyland-18-ltr-ro-uv-uf-tds-water-purifier-aquagrand-original-imag2yagk7s7hgs6.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/knan98w0/water-purifier/q/g/q/skyland-18-ltr-ro-uv-uf-tds-water-purifier-aquagrand-original-imag2yaggbshuqku.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/klqx30w0/water-purifier/v/c/r/royce-model-12-l-alkaline-vitamin-b12-ro-uv-uf-tds-alkaline-original-imagyszztku3jwvs.jpeg?q=70"
+        ],
+        "title":"Aquagrand TDS Water Purifier 18 L RO + UV + UF + TDS Water Purifier",
+        "discount":"56% off",
+        "mrp":14566,
+        "our_price":4927,
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":26,
+        "image_url":[
+          "https://rukminim1.flixcart.com/image/416/416/jm2c87k0/iron/b/k/g/philips-gc097-50-original-imaf9239w3uauga9.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jm2c87k0/iron/b/k/g/philips-gc097-50-original-imaf9239dsnjnnhf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jm2c87k0/iron/b/k/g/philips-gc097-50-original-imaf9239b3p2uewj.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/jm2c87k0/iron/b/k/g/philips-gc097-50-original-imaf9239ftfgvvsg.jpeg?q=70"
+        ],
+        "title":"PHILIPS GC097 750 W Dry Iron",
+        "discount":"10% off",
+        "mrp":800,
+        "our_price":720,
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":27,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kruyw7k0/computer/j/q/o/na-thin-and-light-laptop-apple-original-imag5jt7uezqkefz.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kruyw7k0/computer/p/s/p/na-thin-and-light-laptop-apple-original-imag5jt7zpmhsrpm.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kruyw7k0/computer/7/s/m/na-thin-and-light-laptop-apple-original-imag5jt7khzzmh4w.jpeg?q=70"
+        ],
+        "title":"APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A",
+        "discount":"12% off",
+        "mrp":"99,900",
+        "our_price":"86,900",
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":28,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/y/i/y/mphg3hn-a-thin-and-light-laptop-apple-original-imagmfhepavqyfyy.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/computer/q/g/w/mphg3hn-a-thin-and-light-laptop-apple-original-imagmfheuqnzdfuq.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/computer/r/b/c/mphg3hn-a-thin-and-light-laptop-apple-original-imagmfhemcvdwnkv.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/computer/v/w/5/mnwc3hn-a-laptop-apple-original-imagmfheyvchukyc.jpeg?q=70"
+        ],
+        "title":"APPLE 2023 MacBook Pro M2 Pro - (16 GB/512 GB SSD/macOS Ventura) MPHE3HN/A",
+        "discount":"1% off",
+        "mrp":"1,99,900",
+        "our_price":"1,99,700",
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":29,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/top/o/k/u/m-dress007-ashvmegh-original-imagjt5dwcwphhbc.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/top/t/p/e/m-dress007-ashvmegh-original-imagjt5dgf8gt8tp.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/top/u/m/5/m-dress007-ashvmegh-original-imagjt5d3geptrjk.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/top/v/8/n/m-dress007-ashvmegh-original-imagjt5dymtzcg2g.jpeg?q=70"
+        ],
+        "title":"Casual Puff Sleeves Printed Women Multicolor Top",
+        "discount":"70% off",
+        "mrp":"1,999",
+        "our_price":"599",
+        "size":"L",
+        "category":"women"
+        },
+         {
+        "id":30,
+        "image_url":[
+        "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/Ayushi-4_900x.jpg?v=1675247884",
+        "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/C7-28_1_1800x1800.jpg?v=1675247884",
+        "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/Ayushi-4_900x.jpg?v=1675247884",
+        "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/C7-28_1_1800x1800.jpg?v=1675247884"
+        ],
+        "title":"Mustard Embroidered Silk Blend Straight Suit Set",
+        "discount":"60% off",
+        "mrp":"6,499",
+        "our_price":"2,599",
+        "size":"S",
+        "category":"women"
+        },
+         {
+        "id":31,
+        "image_url":[
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/11_c3a2add2-cc25-45d8-bda7-78c2af8e9ca4_1800x1800.jpg?v=1673863216",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/1648709507344-47cvdjdujwo9qwll-589F61E4CE38BE3B9A06EE9CB3E20F43_1800x1800.jpg?v=1673863216",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/11_c3a2add2-cc25-45d8-bda7-78c2af8e9ca4_1800x1800.jpg?v=1673863216",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/1648709507344-47cvdjdujwo9qwll-589F61E4CE38BE3B9A06EE9CB3E20F43_1800x1800.jpg?v=1673863216"
+        ],
+        "title":"Off White Embroidered Cotton Suit Set",
+        "discount":"60% off",
+        "mrp":"4,999",
+        "our_price":"1,999",
+        "size":"M",
+        "category":"women"
+        },
+         {
+        "id":32,
+        "image_url":[
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8706059/2022/8/25/600ba77d-27a6-4d99-8f31-b349edb6aec81661422693616-HIGHLANDER-Men-Blue-Tapered-Fit-Mid-Rise-Clean-Look-Stretcha-1.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8706059/2022/8/25/f5d20af5-9b32-4345-a0fc-3ab1979589801661422693607-HIGHLANDER-Men-Blue-Tapered-Fit-Mid-Rise-Clean-Look-Stretcha-2.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8706059/2022/8/25/a7cc4f97-d665-48e7-8f63-6520874cc01c1661422693585-HIGHLANDER-Men-Blue-Tapered-Fit-Mid-Rise-Clean-Look-Stretcha-4.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8706059/2022/8/25/44ffc4b0-3702-4dd4-bad0-c59eebe6feb31661422693575-HIGHLANDER-Men-Blue-Tapered-Fit-Mid-Rise-Clean-Look-Stretcha-5.jpg"
+        ],
+        "title":"Men Blue Tapered Fit Mid-Rise Clean Look Stretchable Jeans",
+        "discount":"54% off",
+        "mrp":"1,299",
+        "our_price":"597",
+        "size":"M",
+        "category":"men"
+        },
+         {
+        "id":33,
+        "image_url":[
+         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18331382/2022/9/6/33690aba-c19d-44ab-8a13-601d2cf549681662463194397-Anouk-Men-Brown-Bandhani-Printed-Kurta-with-Trousers-4621662-1.jpg",
+         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18331382/2022/9/6/992ed2aa-c9d2-47e8-812d-19b818b91bea1662463194372-Anouk-Men-Brown-Bandhani-Printed-Kurta-with-Trousers-4621662-3.jpg",
+         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18331382/2022/9/6/abd42254-dbc9-47df-923a-ef2b279f282d1662463194324-Anouk-Men-Brown-Bandhani-Printed-Kurta-with-Trousers-4621662-11.jpg",
+         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18331382/2022/9/6/65d1d94f-c74b-4715-80fa-1a610c919d3f1662463194363-Anouk-Men-Brown-Bandhani-Printed-Kurta-with-Trousers-4621662-4.jpg"
+        ],
+        "title":"Men Brown Bandhani Printed Kurta with Trousers",
+        "discount":"45% off",
+        "mrp":"3,499",
+        "our_price":"1,924",
+        "size":"XL",
+        "category":"men"
+        },
+         {
+        "id":34,
+        "image_url":[
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10339033/2022/4/25/3170e623-ab80-4678-9628-14cb6033ab171650883660619USPoloAssnMenWhiteClarkinSneakers1.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10339033/2022/4/25/d2a0a105-dca4-4ea3-acc2-ca2156636dc31650883660649USPoloAssnMenWhiteClarkinSneakers4.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10339033/2022/4/25/770e0c65-ab8c-4cc4-a0d1-f6084105c0371650883660658USPoloAssnMenWhiteClarkinSneakers5.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10339033/2022/4/25/684d38fa-ab0a-4388-ae17-3cc45affbc141650883660627USPoloAssnMenWhiteClarkinSneakers15.jpg"
+        ],
+        "title":"Men White Clarkin Sneakers",
+        "discount":"45% off",
+        "mrp":"2,999",
+        "our_price":"1,645",
+        "size":"S",
+        "category":"shoes"
+        },
+         {
+        "id":35,
+        "image_url":[
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20367044/2022/10/12/4c7012d3-2221-41f5-a45c-a913b5c2ab901665555384555SaintGWomensBlackLeatherLongBoots1.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20367044/2022/10/12/a76be6b7-13c5-419e-94cb-3a7c3740927f1665555384519SaintGWomensBlackLeatherLongBoots6.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20367044/2022/10/12/4acba795-2f81-4db7-93f6-55b714f106421665555384531SaintGWomensBlackLeatherLongBoots5.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/20367044/2022/10/12/d97a86f2-4d95-448c-b08b-48b66c56f1fe1665555384507SaintGWomensBlackLeatherLongBoots7.jpg"
+        ],
+        "title":" Black Pure Leather Studded Inside Wedge Heel Long Boots",
+        "discount":"1% off",
+        "mrp":"28,100",
+        "our_price":"28,000",
+        "size":"M",
+        "category":"shoes"
+        },
+         {
+        "id":36,
+        "image_url":[
+         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fa459bba-bf85-4836-a9c5-3a58d75e85a0/jordan-why-not-6-pf-shoes-Bsggwn.png",
+         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/619fb70a-eec3-45c9-a78f-2c680f1c9cff/jordan-why-not-6-pf-shoes-Bsggwn.png",
+         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/0b05a3de-0637-4af2-8844-ad6a381adcc4/jordan-why-not-6-pf-shoes-Bsggwn.png",
+         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ed6a1778-7ee5-4b9f-820d-3241ee758b03/jordan-why-not-6-pf-shoes-Bsggwn.png"
+        ],
+        "title":"Jordan Why Not .6 PF",
+        "discount":"1% off",
+        "mrp":"14,100",
+        "our_price":"13900",
+        "size":"M",
+        "category":"shoes"
+        },
+         {
+        "id":37,
+        "image_url":[
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/8/k/h/44-sfc58-slide-fitt-original-imaggq5tztnhycqf.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/a/t/9/44-sfc58-slide-fitt-original-imaggq5tzr9fqeum.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/m/p/t/44-sfc58-slide-fitt-original-imaggq5tvbgp63qn.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/w/2/1/44-sfc58-slide-fitt-original-imaggq5tganmcehd.jpeg?q=70"
+        ],
+        "title":"Men Solid Single Breasted Festive & Wedding Blazer",
+        "discount":"68% off",
+        "mrp":"5,999",
+        "our_price":"1,999",
+        "size":"L",
+        "category":"men"
+        },
+         {
+        "id":38,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/u/1/r/42-maroon-silayi-humjoli-mens-wear-original-imaghxhzkm2qce8c.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/q/k/6/42-maroon-silayi-humjoli-mens-wear-original-imaghxhzgbm4dhcg.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/u/1/r/42-maroon-silayi-humjoli-mens-wear-original-imaghxhzkm2qce8c.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/q/k/6/42-maroon-silayi-humjoli-mens-wear-original-imaghxhzgbm4dhcg.jpeg?q=70"
+        ],
+        "title":"Men Solid Single Breasted Formal, Casual, Festive & Wedding Blazer",
+        "discount":"71% off",
+        "mrp":"5,999",
+        "our_price":"1,709",
+        "size":"S",
+        "category":"men"
+        },
+         {
+        "id":39,
+        "image_url":[
+           "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/g/f/a/xl-sfjckt6394-sassafras-original-imafytsyekfprfef-bb.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/kj7gwi80-0/blazer/h/5/m/m-sfjckt6394-sassafras-original-imafytsywhwzshhh.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/kj7gwi80-0/blazer/7/k/p/xl-sfjckt6394-sassafras-original-imafytsypxwmhr5z.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/kj7gwi80-0/blazer/5/c/u/m-sfjckt6394-sassafras-original-imafytsybyeetstf.jpeg?q=70"
+        ],
+        "title":"Women Solid Double Breasted Casual Blazer",
+        "discount":"50% off",
+        "mrp":"1,799",
+        "our_price":"898",
+        "size":"L",
+        "category":"women"
+        },
+         {
+        "id":40,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/u/7/w/s-kslblaz5374-kassually-original-imaghq6znjxez85d.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/k/r/9/s-kslblaz5374-kassually-original-imaghq6zfggtgere.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/a/n/8/s-kslblaz5374-kassually-original-imaghq6zrdqees45.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/6/l/b/s-kslblaz5374-kassually-original-imaghq6znwuppkb8.jpeg?q=70"
+        ],
+        "title":"Women Solid Single Breasted Casual Blazer ",
+        "discount":"68% off",
+        "mrp":"2,399",
+        "our_price":"745",
+        "size":"XL",
+        "category":"women"
+        },
+         {
+        "id":41,
+        "image_url":[
+           "https://rukminim1.flixcart.com/image/832/832/xif0q/track-pant/k/b/i/xl-tr12-vebnor-original-imaggn4rfyudc4gh.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/xif0q/track-pant/t/y/b/xl-tr12-vebnor-original-imaggn4rgb7e2gut.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/xif0q/track-pant/l/l/x/xl-tr12-vebnor-original-imaggn4rsgn584kg.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/xif0q/track-pant/e/a/o/xl-tr12-vebnor-original-imaggn4ryz6z8hgz.jpeg?q=70"
+        ],
+        "title":"Pack of 2 Men Printed Black, Dark Blue Track Pants",
+        "discount":"84% off",
+        "mrp":"2,299",
+        "our_price":"349",
+        "size":"L",
+        "category":"men"
+        },
+         {
+        "id":42,
+        "image_url":[
+        "https://rukminim1.flixcart.com/image/832/832/jzhb24w0/sari/v/n/3/free-kara115-black-sariya-original-imafjhsnbsywfcvy.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jzhb24w0/sari/v/n/3/free-kara115-black-sariya-original-imafjhsnjughphft.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jzhb24w0/sari/v/n/3/free-kara115-black-sariya-original-imafjhsnbhys7yha.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jzhb24w0/sari/v/n/3/free-kara115-black-sariya-original-imafjhszhn5vtgaw.jpeg?q=70"
+        ],
+        "title":"Woven Banarasi Silk Blend, Jacquard Saree",
+        "discount":"88% off",
+        "mrp":"4,999",
+        "our_price":"599",
+        "size":"",
+        "category":"women"
+        },
+         {
+        "id":43,
+        "image_url":[
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/6_dfee45d2-ae16-499b-a70a-15f01dc90da2_1800x1800.jpg?v=1674555084",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/1_da623ab2-de96-40a5-9793-5326870677dd_1800x1800.jpg?v=1674555084",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/6_dfee45d2-ae16-499b-a70a-15f01dc90da2_1800x1800.jpg?v=1674555084",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/1_da623ab2-de96-40a5-9793-5326870677dd_1800x1800.jpg?v=1674555084"
+        ],
+        "title":"Sea Green Embellished Ready To Wear Saree",
+        "discount":"75% off",
+        "mrp":"7,999",
+        "our_price":"1,799",
+        "size":"",
+        "category":"women"
+        },
+         {
+        "id":44,
+        "image_url":[
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/C6-02_1800x1800.jpg?v=1668679950",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/24094O_1_1800x1800.jpg?v=1668679952",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/C6-02_1800x1800.jpg?v=1668679950",
+         "https://cdn.shopify.com/s/files/1/0341/4805/7228/products/24094O_1_1800x1800.jpg?v=1668679952"
+        ],
+        "title":"Lime Green Printed Cotton Anarkali Kurta",
+        "discount":"63% off",
+        "mrp":"1,999",
+        "our_price":"799",
+        "size":"",
+        "category":"women"
+        },
+         {
+        "id":45,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/kkr72q80/bedsheet/5/m/m/gold-double-bedsheet-doublegold-3724-flat-vas-collections-original-imagyyzp2gxbyzaa.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kkr72q80/bedsheet/1/x/x/singe-gold-bedsheet-singlegold-3764-flat-vas-collections-original-imagyyyjzywdrdw4.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kkr72q80/bedsheet/z/m/l/gold-double-bedsheet-doublegold-3724-flat-vas-collections-original-imagyyzpjyyggu9b.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/kkr72q80/bedsheet/e/j/p/singe-gold-bedsheet-singlegold-3764-flat-vas-collections-original-imagyyyj2hwg3ay6.jpeg?q=70"
+        ],
+        "title":"VAS COLLECTIONS 160 TC Cotton Double Printed Flat Bedsheet",
+        "discount":"70% off",
+        "mrp":"999",
+        "our_price":"299",
+        "size":"",
+        "category":"bedsheets"
+        },
+         {
+        "id":46,
+        "image_url":[
+         "https://rukminim1.flixcart.com/image/416/416/k0463rk0/bedsheet/9/h/m/printed-double-bedsheet-sfp15drgb89-flat-metro-living-original-imafjz95xcgfczyw.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/xif0q/bedsheet/p/g/n/jaipuri-sanganeri-printed-double-cotton-bedsheet-1-dft01-fitted-original-imaggsh2zryhqdtf.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/k0463rk0/bedsheet/9/h/m/printed-double-bedsheet-sfp15drgb89-flat-metro-living-original-imafjz95b4kztb9k.jpeg?q=70",
+         "https://rukminim1.flixcart.com/image/832/832/k0463rk0/bedsheet/9/h/m/printed-double-bedsheet-sfp15drgb89-flat-metro-living-original-imafjz954zszgruh.jpeg?q=70"
+        ],
+        "title":"METRO LIVING 104 TC Cotton Double Printed Flat Bedsheet ",
+        "discount":"57% off",
+        "mrp":"950",
+        "our_price":"399",
+        "size":"",
+        "category":"bedsheets"
+        },
+         {
+        "id":47,
+        "image_url":[
+           "https://rukminim1.flixcart.com/image/416/416/jrjizrk0/egg-cooker/f/h/v/nec-1530-blue-electric-egg-boiler-and-nova-original-imafdbapqwgvzyaq.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/jrf8o7k0/egg-cooker/f/h/v/nec-1530-blue-electric-egg-boiler-and-nova-original-imafd82vbjjanges.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/jrf8o7k0/egg-cooker/f/h/v/nec-1530-blue-electric-egg-boiler-and-nova-original-imafd82vtmgbkmry.jpeg?q=70",
+           "https://rukminim1.flixcart.com/image/832/832/jrf8o7k0/egg-cooker/f/h/v/nec-1530-blue-electric-egg-boiler-and-nova-original-imafcvxsbsg6hg8s.jpeg?q=70"
+        ],
+        "title":"NOVA Blue Electric Egg Boiler NEC 1530 Egg Cooker",
+        "discount":"44% off",
+        "mrp":"899",
+        "our_price":"499",
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":48,
+        "image_url":[
+          "https://rukminim1.flixcart.com/image/416/416/kqidx8w0/television/m/1/v/32ha0a00-oneplus-original-imag4gy8yezxdhen.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kqb8pzk0/television/0/y/f/32ha0a00-oneplus-original-imag4cve9stz93ad.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kfzq8i80/television/4/6/2/oneplus-43fa0a00-original-imafwb6wh84hj6gv.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/kqb8pzk0/television/i/h/n/32ha0a00-oneplus-original-imag4cvemn4msuj4.jpeg?q=70"
+        ],
+        "title":"OnePlus Y1 80 cm (32 inch) HD Ready LED Smart Android TV",
+        "discount":"27% off",
+        "mrp":"19,999",
+        "our_price":"14,499",
+        "size":"",
+        "category":"electronic"
+        },
+         {
+        "id":49,
+        "image_url":[
+        "https://static01.manyavar.com/uploads/dealimages/9544/detailimages/feroze-blue-kurta-with-black-lower-sdes093-326-8.jpg",
+        "https://static01.manyavar.com/uploads/dealimages/9544/detailimages/feroze-blue-kurta-with-black-lower-sdes093-326-6.jpg",
+        "https://static01.manyavar.com/uploads/dealimages/9544/detailimages/feroze-blue-kurta-with-black-lower-sdes093-326-9.jpg",
+        "https://static01.manyavar.com/uploads/dealimages/9544/detailimages/feroze-blue-kurta-with-black-lower-sdes093-326-7.jpg"
+        ],
+        "title":"Sapphire Blue Jacquard Kurta Set",
+        "discount":"1% off",
+        "mrp":"2,999",
+        "our_price":"2,970",
+        "size":"M",
+        "category":"men"
+        },
+         {
+        "id":50,
+        "image_url":[
+         "https://static01.manyavar.com/uploads/dealimages/14730/detailimages/stone-embellished-pink-lehenga-ulb4391-414425-11.jpg",
+         "https://static01.manyavar.com/uploads/dealimages/14730/detailimages/stone-embellished-pink-lehenga-ulb4391-414425-12.jpg",
+         "https://static01.manyavar.com/uploads/dealimages/14730/detailimages/stone-embellished-pink-lehenga-ulb4391-414425-13.jpg",
+         "https://static01.manyavar.com/uploads/dealimages/14730/detailimages/stone-embellished-pink-lehenga-ulb4391-414425-14.jpg"
+        ],
+        "title":"Stone Embellished Pink Lehenga",
+        "discount":"10% off",
+        "mrp":"17,000",
+        "our_price":"15,700",
+        "size":"S",
+        "category":"women"
+        }  
+    ],
+    "hotpicks":[
+        {
+          "id":1,
+          "image":"https://www.forevernew.co.in/media/catalog/product/cache/bec84c411d3a50796817cd515843cd3c/o/l/oldimlall_onbody_27814001_f_y37b3rkxqlusjty8.jpg",
+           "title":"Liza Frill Bodycon Dress"
+        },
+        {
+            "id":2,
+            "image":"https://www.forevernew.co.in/media/catalog/product/cache/bec84c411d3a50796817cd515843cd3c/o/l/oldimlall_onbody_27859101_f_qriwppruvxwu0zva.jpg",
+             "title":"Cassandra Cut Out Plisse Dress"
+        },
+        {
+            "id":3,
+            "image":"https://www.forevernew.co.in/media/catalog/product/cache/bec84c411d3a50796817cd515843cd3c/o/l/oldimlall_onbody_27813802_f_pu1frjf8b9s911",
+             "title":"Lydia V-Neck Prom Dress"
+        },
+        {
+            "id":4,
+            "image":"https://www.forevernew.co.in/media/catalog/product/cache/bec84c411d3a50796817cd515843cd3c/o/l/oldimlall_onbody_27797502_f_m40stxfisa7awjyn.jpg",
+             "title":"Joey Neck Wrap Midi Dress"
+        },
+        {
+            "id":5,
+            "image":"https://www.forevernew.co.in/media/catalog/product/cache/bec84c411d3a50796817cd515843cd3c/o/l/oldimlall_onbody_27792903_f_rgfkzw38kpd3bi2x.jpg",
+             "title":"Avery Satin Strapless Dress"
+        },
+        {
+            "id":6,
+            "image":"https://www.forevernew.co.in/media/catalog/product/cache/bec84c411d3a50796817cd515843cd3c/o/l/oldimlall_onbody_27801902_f_il6iyezpvzoc1nrh.jpg",
+             "title":"Genevieve Pleated Mini Dress"
+        },
+        {
+            "id":7,
+            "image":"https://www.forevernew.co.in/media/catalog/product/cache/bec84c411d3a50796817cd515843cd3c/o/l/oldimlall_onbody_27648801_f_bi5s1ivmh4vb6zn8.jpg",
+             "title":"Liza Frill Bodycon Dress"
+        },
+        {
+            "id":8,
+            "image":"https://www.forevernew.co.in/media/catalog/product/cache/bec84c411d3a50796817cd515843cd3c/o/l/oldimlall_onbody_27814001_f_y37b3rkxqlusjty8.jpg",
+             "title":"Joey Neck Wrap Midi Dress"
+        }
+    ]
+}
